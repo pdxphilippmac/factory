@@ -1,7 +1,3 @@
-Hier eine **Mini-Doku zum Copy-Paste in Apple Notes**. An dein aktuelles Setup angepasst (`factory` + Bionic + Sandbox).
-
----
-
 # Local AI Factory — Start-Cheat-Sheet
 Stand: Nov 2026 · Repo: ~/Projects/factory · Sandbox: factory-opencode
 
